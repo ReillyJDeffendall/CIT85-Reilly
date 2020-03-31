@@ -1,0 +1,10 @@
+#music {
+    /*formatting*/
+    width: 420px;
+    height: 420px;
+    background-color: aqua;
+    /*layout*/
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
